@@ -4,7 +4,7 @@ AI-powered virtual companions with unique personalities that remember your conve
 
 ## 🚀 Overview
 
-AIVatar is a modern web application that lets you create and interact with virtual AI friends. Each companion has their own personality, mood, and memory, creating a personalized and engaging experience.
+AIavatar is a idea for creating a website that lets you create and interact with virtual AI friends. Each companion has their own personality, mood, and memory, creating a personalized and engaging experience.
 
 ## 🔄 Application Flow
 
