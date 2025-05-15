@@ -1,8 +1,5 @@
-# AIVatar - Friend Space Avatars
 
-AI-powered virtual companions with unique personalities that remember your conversations.
-
-## 🚀 Overview
+## 🚀 Overview of the FrontEnd Assignment given by DCverse.
 
 AIavatar is a idea for creating a website that lets you create and interact with virtual AI friends. Each companion has their own personality, mood, and memory, creating a personalized and engaging experience.
 
